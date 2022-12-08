@@ -7,7 +7,7 @@
     const productPrice = 400;
     
     console.log('Product name: ', productName);
-    console.log('Products overall price: ', productQuantity * productPrice);
+    console.log(`Products overall price: ${productQuantity * productPrice}`);
 }
 
 {
