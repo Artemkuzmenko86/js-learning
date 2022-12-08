@@ -6,7 +6,7 @@
     const productCategory = "Games";
     const productPrice = 400;
     
-    console.log('Product name: ', productName);
+    console.log(`Product name: ${productName}`);
     console.log(`Products overall price: ${productQuantity * productPrice}`);
 }
 
@@ -16,7 +16,7 @@
     const productCategory = "Electronics";
     const productPrice = 700;
     
-    console.log('Product name: ', productName);
+    console.log(`Product name: ${productName}`);
 }
 
 
